@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Front-end developer
+
+### About me
+
+```js
+const MartinLuna = {
+  status: `Learning ${javaScriptLibrary}`,
+  pronouns: 'He' || 'Him',
+  askMeAbout: ['Web development','Responsive Web Design','WordPress','Web Accessibility'],
+  technologies: {
+    frontEnd: ['HTML5', 'CSS3', 'JavaScript'],
+    backEnd: ['PHP', 'NodeJs'],
+    CMS: ['WordPress'],
+    tools: ['git', 'gulp', 'npm', 'yarn'],
+    other: ['SEO', 'Web Performance Optimisation'],
+  },
+  UI: ['Photoshop', 'Illustrator', 'Sketch', 'Zeplin'],
+};
+```
+
+### Contact me
+
+[![](https://img.shields.io/badge/LinkedIn-martineduardoluna-blue)](https://www.linkedin.com/in/martineduardoluna)
