@@ -27,7 +27,7 @@ const MartinLuna = {
     backEnd: ['PHP', 'NodeJs'],
     CMS: ['WordPress'],
     tools: ['git', 'gulp', 'npm', 'yarn'],
-    other: ['SEO', 'Web Performance Optimisation'],
+    other: ['SEO', 'Web Performance Optimization'],
   },
   UI: ['Photoshop', 'Illustrator', 'Sketch', 'Zeplin'],
 };
