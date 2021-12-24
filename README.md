@@ -23,7 +23,7 @@ const MartinLuna = {
   pronouns: 'He' || 'Him',
   askMeAbout: ['UX/UI development','Responsive Web Design','Web Accessibility', 'WordPress'],
   technologies: {
-    frontEnd: ['HTML5', 'CSS3', 'JavaScript'],
+    frontEnd: ['HTML', 'CSS', 'JavaScript'],
     CMS: ['WordPress'],
     tools: ['git', 'vite', 'npm', 'yarn'],
     other: ['SEO', 'Web Performance Optimization'],
