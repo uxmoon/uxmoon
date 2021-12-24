@@ -19,17 +19,16 @@ Here are some ideas to get you started:
 
 ```js
 const MartinLuna = {
-  status: `Learning ${javaScriptLibrary}`,
+  status: `Learning ${javaScriptLibrary || javaScriptFramework}`,
   pronouns: 'He' || 'Him',
-  askMeAbout: ['Web development','Responsive Web Design','WordPress','Web Accessibility'],
+  askMeAbout: ['UX/UI development','Responsive Web Design','Web Accessibility', 'WordPress'],
   technologies: {
     frontEnd: ['HTML5', 'CSS3', 'JavaScript'],
-    backEnd: ['PHP', 'NodeJs'],
     CMS: ['WordPress'],
-    tools: ['git', 'gulp', 'npm', 'yarn'],
+    tools: ['git', 'vite', 'npm', 'yarn'],
     other: ['SEO', 'Web Performance Optimization'],
   },
-  UI: ['Photoshop', 'Illustrator', 'Sketch', 'Zeplin'],
+  UI: ['Figma', 'Adobe Xd', 'Sketch', 'Zeplin'],
 };
 ```
 
