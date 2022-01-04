@@ -28,7 +28,7 @@ const MartinLuna = {
     tools: ['git', 'vite', 'npm', 'yarn'],
     other: ['SEO', 'Web Performance Optimization'],
   },
-  UI: ['Figma', 'Adobe Xd', 'Sketch', 'Zeplin'],
+  UI: ['Figma', 'Adobe Xd', 'Sketch'],
 };
 ```
 
