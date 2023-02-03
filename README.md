@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ```js
 const MartinLuna = {
-  status: 'Working with React and Styled Components',
+  status: 'Working with Vue and Web components',
   pronouns: 'He' || 'Him',
   askMeAbout: ['UX/UI development','Responsive Web Design','Web Accessibility', 'WordPress'],
   technologies: {
