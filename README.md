@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### About me
 
 ```js
-const MartinLuna = {
+const martinLuna = {
   status: 'Open to work',
   pronouns: 'He' || 'Him',
   askMeAbout: ['Frontend development','Responsive Web Design','Web Accessibility', 'WordPress'],
