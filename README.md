@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ```js
 const MartinLuna = {
-  status: 'Working with Vue and Web components',
+  status: 'Open to work',
   pronouns: 'He' || 'Him',
-  askMeAbout: ['UX/UI development','Responsive Web Design','Web Accessibility', 'WordPress'],
+  askMeAbout: ['Frontend development','Responsive Web Design','Web Accessibility', 'WordPress'],
   technologies: {
     frontEnd: ['HTML', 'CSS', 'JavaScript'],
     CMS: ['WordPress'],
