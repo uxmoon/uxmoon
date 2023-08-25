@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 const martinLuna = {
   status: 'Open to work',
   pronouns: 'He' || 'Him',
-  askMeAbout: ['Frontend development','Responsive Web Design','Web Accessibility', 'WordPress'],
+  askMeAbout: ['Frontend development','Responsive Web Design','Web Accessibility'],
   technologies: {
-    frontEnd: ['HTML', 'CSS', 'JavaScript'],
+    frontEnd: ['React', 'HTML', 'CSS', 'JavaScript'],
     CMS: ['WordPress'],
     tools: ['git', 'vite', 'npm', 'yarn'],
     other: ['SEO', 'Web Performance Optimization'],
