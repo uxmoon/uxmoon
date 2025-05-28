@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 ```js
 const martinLuna = {
-  status: 'Open to work',
-  pronouns: 'He' || 'Him',
+  status: 'Working remotly',
   askMeAbout: ['Frontend development','Responsive Web Design','Web Accessibility'],
   technologies: {
     frontEnd: ['React', 'HTML', 'CSS', 'JavaScript'],
@@ -28,7 +27,7 @@ const martinLuna = {
     tools: ['git', 'vite', 'npm', 'yarn'],
     other: ['SEO', 'Web Performance Optimization'],
   },
-  UI: ['Figma', 'Adobe Xd', 'Sketch'],
+  UI: ['Sketch', 'Adobe Xd', 'Figma'],
 };
 ```
 
