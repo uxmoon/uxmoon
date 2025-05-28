@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ```js
 const martinLuna = {
-  status: 'Working remotly',
+  status: 'Working remotely',
   askMeAbout: ['Frontend development','Responsive Web Design','Web Accessibility'],
   technologies: {
     frontEnd: ['React', 'HTML', 'CSS', 'JavaScript'],
